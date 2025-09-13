@@ -35,6 +35,7 @@ This project contains a comprehensive analysis of support ticket data, visualize
 *   **Tableau Public** - Data visualization and dashboarding
 *   **Python** (Pandas, Faker libraries) - Data generation
 *   **SQLite** - Data storage and analytical queries
+*   **Jupyter Notebook** - Interactive coding environment
 
 
 
